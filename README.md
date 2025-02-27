@@ -47,8 +47,7 @@ crop-yield-prediction-app/
 ├── requirements.txt      # Python dependencies
 ├── Procfile              # Deployment configuration for Render
 ├── runtime.txt           # Python version (optional)
-├── model/
-│   └── Crop_Yield_model3.pkl  # Trained ML model
+│   Crop_Yield_model3.pkl  # Trained ML model
 ├── templates/
 │   └── index.html        # Frontend HTML
 └── static/
